@@ -1,4 +1,4 @@
-# project_1
+# Project 1
 Fraud Test Analysis
 
 This data analysis session is a component of a group project centered on analyzing credit card fraud. The primary objective is to investigate the impact of fraudulent transactions on the purchase amounts.
