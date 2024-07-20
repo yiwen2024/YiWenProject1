@@ -11,3 +11,4 @@ The data analysis process comprises three main stages:
 
 3. Conducting statistical analysis to identify the purchase amounts most significantly influenced by fraudulent transactions.
 
+The group project can be accessed though the link: https://github.com/Mohammed-a-ali01/Project-1
